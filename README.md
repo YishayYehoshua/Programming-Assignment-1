@@ -2,9 +2,6 @@
 
 A lightweight, concurrent HTTP/1.0 web server built from scratch using Python's standard low-level socket API.
 
-## Demo Video
-[Link to Demo Video] <--- **הדבק כאן את הקישור ליוטיוב/גוגל דרייב לאחר ההקלטה**
-
 ## Dependencies
 This project requires strictly no external frameworks or libraries. It uses only Python's built-in modules:
 - `socket` (for low-level TCP networking)
@@ -28,4 +25,4 @@ This project requires strictly no external frameworks or libraries. It uses only
 ## How to Run
 Run the server using Python 3:
 ```bash
-python3 server.py
+python3 server.py# Programming-Assignment-1
