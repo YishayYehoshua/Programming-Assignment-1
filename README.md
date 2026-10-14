@@ -8,6 +8,8 @@ This project requires strictly no external frameworks or libraries. It uses only
 - `threading` (for concurrency)
 - `os` and `mimetypes` (for file handling)
 
+קישור לצפייה בסרטון : https://drive.google.com/file/d/1qObOFV7L3sC_M5ifzxX-_Un64qdvQ4Nl/view?usp=sharing
+
 ## Directory Structure
 .
 ├── server.py
